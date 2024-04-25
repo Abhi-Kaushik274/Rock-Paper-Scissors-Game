@@ -1,5 +1,5 @@
 # Rock Paper Scissors Game
-My First Game
+
 Welcome to my first ever game of Rock Paper Scissors! This simple yet classic game is implemented using HTML, CSS, and JavaScript.
 
 How to Play
